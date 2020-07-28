@@ -1,4 +1,4 @@
-<img align="left" src="images/mtwhitney.JPG" >
+
 ---
 permalink: /
 title: "About Me"
@@ -8,6 +8,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<img align="center" src="images/mtwhitney.JPG" >
 
 Hi! I'm **Dr. Luis Antonio Garcia**. I just recently joined [USC Information Sciences Institute](https://www.isi.edu/) as a Computer Research Scientist focusing on how we can provide any notions of safety and security for the learning-enabled Internet-of-Things (IoT)/Cyber-physical Systems (CPS). I previously held a postdoctoral appointment at the [Networked & Embedded Systems Laboratory](http://nesl.ucla.edu/) at the [UCLA ECE Department](https://www.ee.ucla.edu/), collaborating with [Dr. Mani Srivastava](https://www.ee.ucla.edu/mani-srivastava/). I have my PhD in Computer Engineering with a Cybersecurity focus from [Rutgers University](https://www.ece.rutgers.edu/), where my research advisor was [Dr. Saman Zonouz](https://sites.google.com/site/samanzonouz4n6/). My [dissertation](https://rucore.libraries.rutgers.edu/rutgers-lib/59094/) was titled "Physics for Sake of Security, Security for the Sake of Physics". Please don't confuse me with the other Dr. Luis Garcia from Rutgers that roamed the academic world of the 80's.
 
