@@ -9,14 +9,10 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
         
   - title: "Blog Posts"
     url: /year-archive/
     
   - title: "CV"
     url: /files/LuisGarcia_CV.pdf
-    
-  - title: "Guide"
-    url: /markdown/
+
