@@ -21,7 +21,6 @@ My current and future research interests reside in the alignment of a human’s 
 neural-symbolic frameworks that are semantically conscious of their subsuming cyber-physical systems?
 * **Programming Abstractions for Performant Cyber-physical Systems**. In distributed and heterogeneous IoT environments enabled with such neural-symbolic frameworks, what are the correct programming abstractions that need to be exposed to developers?
 * **Safety, Security, and Privacy for Performant Cyber-physical Systems**. How can we defend against collateral safety, security, and privacy threats that will subsequently be exposed by semantically-aware, sensor-rich, adaptive, and distributed heterogeneous IoT environments?
-
 <img align="center" src="images/research-overview.PNG" width="400">
 
 Feel free to take a deep dive into a breakdown of my publications and research interests [here](publications).
