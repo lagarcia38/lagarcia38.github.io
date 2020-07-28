@@ -15,7 +15,7 @@ I was previously an academic intern at the [Logical Systems Lab](https://www.ls.
 
 Research Interests
 ======
-<img align="center" src="images/research-overview.PNG">
+<img align="center" src="images/research-overview.PNG" width="200">
 My current and future research interests reside in the alignment of a human’s semantic understanding of the world with a deep learning model’s semantic understanding of its environment in order to enable a deterministic relationship for providing mutual assurances in cyber-physical contexts. In particular, my research aims to answer the following three questions:
 * **Integration of Human Logic & Deep Learning in Cyber-physical Contexts**. How can we design
 neural-symbolic frameworks that are semantically conscious of their subsuming cyber-physical systems?
